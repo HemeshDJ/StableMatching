@@ -273,7 +273,7 @@ void GraphReader::handle_partition(BipartiteGraph::ContainerType& A, BipartiteGr
         match(TOK_PARTITION_B);
         read_partition(B);
     } else {
-        throw ReaderException(error_message("", curtok_, {TOK_PARTITION_A, TOK_PARTITION_B}));
+        throw ReaderException(error_message("Wrong syntax for Partition", curtok_, {TOK_PARTITION_A, TOK_PARTITION_B}));
     }
 }
 
@@ -285,7 +285,7 @@ void GraphReader::handle_preference_lists(BipartiteGraph::ContainerType& A, Bipa
         match(TOK_PREF_LISTS_B);
         read_preference_lists(B, A);
     } else {
-        throw ReaderException(error_message("", curtok_, {TOK_PREF_LISTS_A, TOK_PREF_LISTS_B}));
+        throw ReaderException(error_message("Wrong syntax for Preference List", curtok_, {TOK_PREF_LISTS_A, TOK_PREF_LISTS_B}));
     }
 }
 
