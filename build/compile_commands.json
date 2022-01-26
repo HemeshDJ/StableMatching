@@ -1,0 +1,182 @@
+[
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -g   -Wall -O0 -g -std=gnu++17 -o CMakeFiles\\graphmatching.dir\\main.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\main.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\main.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\MatchingAlgorithm.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\MatchingAlgorithm.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\MatchingAlgorithm.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\NProposingMatching.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\NProposingMatching.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\NProposingMatching.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\YokoiEnvyfreeHRLQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\YokoiEnvyfreeHRLQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\YokoiEnvyfreeHRLQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\MaximalEnvyfreeHRLQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\MaximalEnvyfreeHRLQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\MaximalEnvyfreeHRLQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\HHeuristicHRLQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\HHeuristicHRLQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\HHeuristicHRLQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\RHeuristicHRLQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\RHeuristicHRLQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\RHeuristicHRLQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\BipartiteGraph.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\BipartiteGraph.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\BipartiteGraph.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\Partner.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Partner.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Partner.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\PartnerList.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\PartnerList.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\PartnerList.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\PreferenceList.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\PreferenceList.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\PreferenceList.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\Vertex.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Vertex.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Vertex.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\GraphReader.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\GraphReader.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\GraphReader.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\Utils.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Utils.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Utils.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\RelaxedStable.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\RelaxedStable.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\RelaxedStable.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\Statistics.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Statistics.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Statistics.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\SEAPopularHRLQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\SEAPopularHRLQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\SEAPopularHRLQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\LpApproxSMFQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\LpApproxSMFQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\LpApproxSMFQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\Exact_Exponential_SMFQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Exact_Exponential_SMFQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Exact_Exponential_SMFQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\DirectApproachHR2LQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\DirectApproachHR2LQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\DirectApproachHR2LQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\Node.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Node.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Node.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\Edge.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Edge.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Edge.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\Graph.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Graph.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Graph.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\HApproxSMFQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\HApproxSMFQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\HApproxSMFQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/lib/include -g   -Wall -O0 -g -std=gnu++17 -o lib\\CMakeFiles\\graph.dir\\Convert_HR_to_HR2LQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Convert_HR_to_HR2LQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\lib\\Convert_HR_to_HR2LQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestDefs.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestDefs.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestDefs.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestRunner.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestRunner.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestRunner.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestPreferenceList.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestPreferenceList.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestPreferenceList.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestPartnerList.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestPartnerList.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestPartnerList.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestUtils.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestUtils.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestUtils.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestStableMarriage.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestStableMarriage.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestStableMarriage.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestPopular.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestPopular.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestPopular.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestHR.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestHR.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestHR.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestYokoi.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestYokoi.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestYokoi.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestMaximalEnvyfreeHRLQ.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestMaximalEnvyfreeHRLQ.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestMaximalEnvyfreeHRLQ.cc"
+},
+{
+  "directory": "D:/IITM/Projects/StableMatchingProject/StableMatching/build",
+  "command": "\"D:\\Program Files\\MSYS2\\mingw64\\bin\\clang++.exe\" -ID:/IITM/Projects/StableMatchingProject/StableMatching/include -ID:/IITM/Projects/StableMatchingProject/StableMatching/test/include -g   -Wall -O0 -g -std=gnu++17 -o test\\CMakeFiles\\testrunner.dir\\TestParser.cc.obj -c D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestParser.cc",
+  "file": "D:\\IITM\\Projects\\StableMatchingProject\\StableMatching\\test\\TestParser.cc"
+}
+]
