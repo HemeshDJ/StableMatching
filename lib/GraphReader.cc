@@ -91,9 +91,14 @@ void GraphReader::consume() {
 
 void GraphReader::match(Token expected) {
     if (curtok_ != expected) {
-       //std::cout << "Line " << lexer_->line_number() << error_message("invalid data in file", curtok_, { expected }) << "\n";
-       //consume();
-       throw ReaderException(error_message("invalid data in file", curtok_, {expected}));
+       error_occurred = true;
+       std::vector<Token> exp;
+       exp.push_back(expected);
+       if(expected == TOK_COMMA && curtok_ != TOK_STRING) exp.push_back(TOK_SEMICOLON);
+       std::cout << "Line " << error_message("invalid data in file", curtok_, exp) << "\n";
+       exit(0);
+    //    consume();
+    //    throw ReaderException(error_message("invalid data in file", curtok_, {expected}));
     } else {
         consume(); // skip the token
     }
@@ -273,7 +278,8 @@ void GraphReader::handle_partition(BipartiteGraph::ContainerType& A, BipartiteGr
         match(TOK_PARTITION_B);
         read_partition(B);
     } else {
-        throw ReaderException(error_message("Wrong syntax for Partition", curtok_, {TOK_PARTITION_A, TOK_PARTITION_B}));
+        match(TOK_PARTITION_A);
+        // throw ReaderException(error_message("Wrong syntax for Partition", curtok_, {TOK_PARTITION_A, TOK_PARTITION_B}));
     }
 }
 
@@ -285,7 +291,8 @@ void GraphReader::handle_preference_lists(BipartiteGraph::ContainerType& A, Bipa
         match(TOK_PREF_LISTS_B);
         read_preference_lists(B, A);
     } else {
-        throw ReaderException(error_message("Wrong syntax for Preference List", curtok_, {TOK_PREF_LISTS_A, TOK_PREF_LISTS_B}));
+        match(TOK_PREF_LISTS_A);
+        // throw ReaderException(error_message("Wrong syntax for Preference List", curtok_, {TOK_PREF_LISTS_A, TOK_PREF_LISTS_B}));
     }
 }
 
@@ -302,8 +309,9 @@ std::shared_ptr<BipartiteGraph> GraphReader::read_graph() {
     if (curtok_ != partition) {
         handle_partition(A, B);
     } else {
-        throw ReaderException(error_message("duplicate partition listing", curtok_,
-                                            {(partition == TOK_PARTITION_A) ? TOK_PARTITION_B : TOK_PARTITION_A}));
+        match((partition == TOK_PARTITION_A) ? TOK_PARTITION_B : TOK_PARTITION_A);
+        // throw ReaderException(error_message("duplicate partition listing", curtok_,
+        //                                     {(partition == TOK_PARTITION_A) ? TOK_PARTITION_B : TOK_PARTITION_A}));
     }
 
     // read the preference lists
@@ -316,8 +324,9 @@ std::shared_ptr<BipartiteGraph> GraphReader::read_graph() {
     if (curtok_ != pref_lists) {
         handle_preference_lists(A, B);
     } else {
-        throw ReaderException(error_message("duplicate preference listing", curtok_,
-                                            {(pref_lists == TOK_PREF_LISTS_A) ? TOK_PREF_LISTS_B : TOK_PREF_LISTS_A}));
+        match((pref_lists == TOK_PREF_LISTS_A) ? TOK_PREF_LISTS_B : TOK_PREF_LISTS_A);
+        // throw ReaderException(error_message("duplicate preference listing", curtok_,
+        //                                     {(pref_lists == TOK_PREF_LISTS_A) ? TOK_PREF_LISTS_B : TOK_PREF_LISTS_A}));
     }
 
     if (error_occurred) {

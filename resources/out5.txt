@@ -1,0 +1,5 @@
+Line 55: invalid data in file, got: '@PartitionA', expected one of: {'@PartitionB'}
+Line 55: invalid data in file, got: 'STRING', expected one of: {'@'}
+Line 55: invalid data in file, got: '(', expected one of: {'@PreferenceListsA'}
+Line 55: invalid data in file, got: 'STRING', expected one of: {'@'}
+Line 55: invalid data in file, got: ',', expected one of: {'@PreferenceListsA'}
